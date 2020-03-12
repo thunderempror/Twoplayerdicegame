@@ -1,0 +1,44 @@
+body{
+    background-color: red;
+    color: white;
+    margin: 10%;
+}
+
+.top-div{
+    margin: auto;
+    text-align: center;
+
+    background-color: red;
+    color: white;
+    width: 600px;
+}
+
+h1{
+    ;
+    width:300px; 
+    display: inline;
+    padding: 40px;
+}
+.image-div{
+    
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-size: 300px;
+    width:300px;
+    display: inline;
+    padding: 50px;
+}
+
+h3{
+    width: 300px;
+    display: inline;
+    padding-right:140px;
+    padding-left: 140px;
+}
+.player-div{
+    text-align: center;
+    
+}
